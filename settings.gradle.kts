@@ -19,5 +19,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "SmartP"
-include(":app")
+rootProject.name = "My Application"
+include(":mobile")
+include(":wear")
+ 
